@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+
+# Ignore Sample Test Cases Folder
+sample_test_cases/
